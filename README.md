@@ -1,6 +1,6 @@
 # ⚡️ Hangman
 
-Hangman console game
+🎮 Hangman console game
 
 ## 🛠 Tech Stack
 
